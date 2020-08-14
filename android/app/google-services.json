@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "92494933613",
+    "firebase_url": "https://ezone-6b729.firebaseio.com",
+    "project_id": "ezone-6b729",
+    "storage_bucket": "ezone-6b729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92494933613:android:6f3a9e1eb535b9a70ad964",
+        "android_client_info": {
+          "package_name": "com.ezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92494933613-3lj7nks8gvto2adoh82u081kinfsfqks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezone",
+            "certificate_hash": "81ee2f16c3872e6ecc3bcb6afc648e5a4bf33445"
+          }
+        },
+        {
+          "client_id": "92494933613-c52iivkebq1b8n3e636k2e6cbjtbd5ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU3Ukr_rpJewjEulhZzcEJdTxN5sIQmdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
